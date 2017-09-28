@@ -1,0 +1,26 @@
+{
+  "name": "meanApp",
+  "version": "1.0.0",
+  "description": "app using MEAN Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myhong1990/meanApp.git"
+  },
+  "author": "My Hong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myhong1990/meanApp/issues"
+  },
+  "homepage": "https://github.com/myhong1990/meanApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "bs-config": "^0.1.6",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "mongojs": "^2.4.1"
+  }
+}
